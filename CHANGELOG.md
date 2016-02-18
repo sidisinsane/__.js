@@ -1,4 +1,4 @@
-# __.js Changelog
+# __js Changelog
 
 ## 1.0.0 (2016-02-19)
 
