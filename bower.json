@@ -1,0 +1,17 @@
+{
+  "name": "__.js",
+  "version": "1.0.0",
+  "authors": [
+    "Dirk Sidney Jansen <sid@sidisinsane.com>"
+  ],
+  "description": "__.js is a small, extendable JavaScript library for modern browsers (IE9+) that provides a few useful functional programming helpers",
+  "main": "dist/__.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,82 @@
+html {
+  box-sizing: border-box;
+  height: 100%;
+}
+
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #eee;
+  color: #333;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 100%;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+header,
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+pre,
+code {
+  margin: 0;
+}
+
+header {
+  margin-bottom: 1.5em;
+}
+
+pre,
+code,
+kbd,
+samp,
+tt {
+  font-family: Consolas, Monaco, 'Andale Mono', 'Lucida Console', monospace;
+  font-size: .8125em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  hyphens: none;
+  line-height: 1.5;
+}
+
+a {
+  color: inherit;
+}
+
+main {
+  margin: auto;
+  max-width: 60em;
+  width: 90%;
+}
+
+samp, code {
+  background-color: #333;
+  color: #fff;
+  padding: 0 1em;
+}
+
+code {
+  display: block;
+  margin-top: 1.5em;
+  overflow-y: scroll;
+  padding: 1.5em;
+  white-space: pre;
+}
+
+code[data-language]:before {
+  color: rgba(255, 255, 255, .7);
+  content: attr(data-language);
+  display: block;
+}
+
+samp {
+  display: inline-block;
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Person",
+  "name": "Sherlock Holmes",
+  "givenName": "William",
+  "additionalName": "Sherlock Scott",
+  "familyName": "Holmes",
+  "honorificPrefix": "Mr.",
+  "jobTitle": "Consulting Detective",
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Sherlock_Holmes"
+  ],
+  "gender": "male",
+  "birthDate": "1854-01-06",
+  "homeLocation": {
+    "@type": "Place",
+    "geo": {
+    "@type": "GeoCoordinates",
+      "latitude": "51.523778",
+      "longitude": "-0.160716"
+    },
+    "hasMap": "https://www.google.com/maps/place/51%C2%B031'25.6%22N+0%C2%B009'30.7%22W/@51.523778,-0.160716,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "London",
+      "addressRegion": "London",
+      "postalCode": "NW1 6XE",
+      "streetAddress": "221B Baker St",
+      "addressCountry": "GB"
+    }
+  }
+}
