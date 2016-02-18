@@ -1,6 +1,6 @@
-# __js
+# __.js
 
-**__js** is a small, extendable JavaScript library for modern browsers (IE9+) that provides a few useful functional programming helpers. 
+**__.js** is a small, extendable JavaScript library for modern browsers (IE9+) that provides a few useful functional programming helpers. 
 
 
 ## Helpers
