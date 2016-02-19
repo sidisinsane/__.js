@@ -1,6 +1,6 @@
 # __.js Changelog
 
-## 1.1.0 (2016-02-189)
+## 1.1.0 (2016-02-19)
 
 * Features added
 * Methods:
